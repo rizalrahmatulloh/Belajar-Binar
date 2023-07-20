@@ -1,1 +1,1 @@
-Hello there, This is my Lesson Repository
+Hello, This is my Lesson Repository
